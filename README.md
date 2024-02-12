@@ -2,7 +2,7 @@
 - 👀 I’m interested in web Devlopment 
 - 🌱 I’m currently learning php
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me m.addoun@his.edu.dz
+- 📫 How to reach me m.addoun@his.edu.dz/addounmoh@gmail.com
 
 <!---
 MoAddoun/MoAddoun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
